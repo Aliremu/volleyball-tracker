@@ -2,10 +2,11 @@
 
 Full source code will be added soon
 
-Example 1:
+Mixture Variants:
 
-https://cdn.discordapp.com/attachments/362746259976486939/1114383021555073054/download.mp4
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 
-Example 2:
 
-https://cdn.discordapp.com/attachments/362746259976486939/1114383022465228860/download_1.mp4
+Earth Heightmap node:
+
+https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov

@@ -4,7 +4,7 @@ Full source code will be added soon
 
 Mixture Variants:
 
-![](https://cdn.discordapp.com/attachments/362746259976486939/1114383021555073054/download.mp4)
+![](https://www.youtube.com/watch?v=jVaorEozE4A)
 
 
 Earth Heightmap node:

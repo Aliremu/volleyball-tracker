@@ -2,11 +2,6 @@
 
 Full source code will be added soon
 
-Mixture Variants:
+![Example 1](https://img.youtube.com/vi/jVaorEozE4A/default.jpg)](https://www.youtube.com/watch?v=jVaorEozE4A)
 
-![](https://www.youtube.com/watch?v=jVaorEozE4A)
-
-
-Earth Heightmap node:
-
-https://github.com/Aliremu/volleyball-tracker/raw/main/download%20(1).mp4
+![Example 2](https://img.youtube.com/vi/9i8_l1n9If4/default.jpg)](https://www.youtube.com/watch?v=9i8_l1n9If4)
